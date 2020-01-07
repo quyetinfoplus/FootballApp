@@ -1,0 +1,19 @@
+.text-toolbar {
+    color: #FFFFFF;
+    font-family: unset;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+ion-toolbar {
+    --background: green;
+}
+
+ion-menu-button {
+    color: #FFFFFF;
+}
+
+.tab-bar {
+    --color-selected : green;
+}
